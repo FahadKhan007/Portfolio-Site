@@ -1,4 +1,5 @@
 # Responsive Portfolio Website
+# Used Language HTML, CSS and JavaScript
 ### Responsive Portfolio Website
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
